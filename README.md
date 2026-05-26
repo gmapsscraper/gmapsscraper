@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  🌍 <a href="languages/README.de.md">Deutsch</a> | <a href="languages/README.fr.md">Français</a> | <a href="languages/README.es.md">Español</a> | <a href="languages/README.ja.md">日本語</a> | <a href="languages/README.ko.md">한국어</a> | <a href="languages/README.pt-br.md">Português</a> | <a href="languages/README.it.md">Italiano</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/gmapsscraper/google-maps-scraper"><img src="https://img.shields.io/github/stars/gmapsscraper/google-maps-scraper?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/gmapsscraper/google-maps-scraper/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
   <a href="https://microsoftedge.microsoft.com/addons/detail/maps-leads-extractor/pjfinnoomaapaljalipcldkcpankhnaj"><img src="https://img.shields.io/badge/Edge_Add--ons-Available-0078D7?logo=microsoftedge" alt="Edge Add-ons"></a>
