@@ -1,16 +1,21 @@
-## Hi there 👋
+### We build tools for B2B lead generation 🎯
 
-<!--
-**gmapsscraper/gmapsscraper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Helping sales teams, agencies, and marketers find their next customers faster.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Open Source
+
+| Project | Description |
+|---------|-------------|
+| [google-maps-scraper](https://github.com/gmapsscraper/google-maps-scraper) | Chrome extension to extract business leads from Google Maps & Bing Maps. 30+ fields, CSV export. |
+
+#### Products
+
+🌐 **[gmapsscraper.io](https://gmapsscraper.io)** — Cloud-powered Google Maps lead generation. Email extraction, social profiles, bulk scraping, API access.
+
+📦 **[Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/maps-leads-extractor/pjfinnoomaapaljalipcldkcpankhnaj)** — One-click install, no setup needed.
+
+---
+
+⭐ If our tools save you time, a star helps others find them too.
